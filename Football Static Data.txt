@@ -1,5 +1,5 @@
 WebViewConfig
 {
     "IsWebViewOn": true,
-    "UrlToOpen": "https://88jl.com"
+    "UrlToOpen": "ZPkK+HMa8uhsPLv85zA+yH6KuZx0YkqWQ5LSfVVk/n1F1AvDjODrA9fobkZZV5se"
 }
